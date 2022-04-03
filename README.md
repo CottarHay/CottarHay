@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Cottar Hayward.
+- 👋 Hi, I’m Cottar.
 - 👀 I’m interested in skateboarding and frontend development.
 - 🌱 I’m currently learning react js.
